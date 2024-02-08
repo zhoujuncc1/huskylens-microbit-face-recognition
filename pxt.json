@@ -1,5 +1,6 @@
 {
     "name": "HuskyLens Microbit Face Recognition",
+    "version": "0.1.0",
     "description": "",
     "dependencies": {
         "core": "*",
